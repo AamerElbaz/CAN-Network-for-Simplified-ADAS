@@ -6,7 +6,6 @@
 #include "tm4c123gh6pm.h"
 
 
-
 typedef uint8_t E_Status;
 #define E_OK            (E_Status)(1U)
 #define E_NOT_OK        (E_Status)(0U)
